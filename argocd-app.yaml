@@ -16,7 +16,7 @@ spec:
 
   source:
 
-    repoURL: https://github.com/YOUR_USERNAME/gitops-manifests.git
+    repoURL: https://github.com/yousra000/gitops-manifests.git
 
     targetRevision: main
 
