@@ -20,7 +20,7 @@ spec:
 
     targetRevision: main
 
-    path: .
+    path: app
 
 
   destination:
