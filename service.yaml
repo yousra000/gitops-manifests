@@ -12,8 +12,8 @@ spec:
   selector:
     app: gitops-demo
 
+ports:
 
-  ports:
-
-  - port: 80
-    targetPort: 3000
+- name: http
+  port: 80
+  targetPort: 3000
