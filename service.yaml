@@ -4,6 +4,9 @@ kind: Service
 metadata:
   name: gitops-demo-service
 
+  labels:
+    app: gitops-demo
+
 
 spec:
 
