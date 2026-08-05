@@ -12,7 +12,7 @@ spec:
 
   selector:
     matchLabels:
-      app: node-app
+      app: gitops-demo
 
 
   endpoints:
